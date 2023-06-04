@@ -1,6 +1,6 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## [Click here to visit](promptopia-mu-topaz.vercel.app)
+### [Click here to visit](promptopia-mu-topaz.vercel.app)
 
 ### Screenshot:
 ![](https://i.imgur.com/tbsGiD8.png)
